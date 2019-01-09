@@ -14,7 +14,8 @@ In early 2000s, Java 2 Enerprise Edition (J2EE) platform dominated enterprise so
 
 # Course Topics
 **Week 1: Introduction to software architecture.**
-- TBA
+- Books: Beautiful Architecture, Chapter 1
+- Class Progress: (8/1/2562) Beautiful Architecture, Chapter 1, page 3 - 10
 
 **Week 2: Architectural structures**
 - TBA
@@ -81,8 +82,8 @@ We expect our students to conduct themselves professionally, at least, for the f
 
 ## Making Up Missed Classes
 - Whether excused or unexcused absence, missed classes must be made up in order to earn a grade of B or higher for the semester
-- To make up a class, students study the slide, work any in-class exercises on their own, write up an executive summary, and submit the executive summary to the instructor using a Microsoft team on email before the next class meeting start time
-- Executive Summary should be a PDF file, 1 to 1.5 pages in length, professionally formatted,12 point Calibri font, 1 inch margins, 1.08 line spacing
+- To make up a class, students study the slide, work any in-class exercises on their own, write up an executive summary, and submit the executive summary to the instructor using CMU Elearning or email (pruet@eng.cmu.ac.th) before the next class meeting start time
+- Executive Summary should be a PDF file, 1 to 1.5 pages in length, professionally formatted,12 point font.
 
 ## Assignments
 - 5 Assignments, count as 20% toward final score
