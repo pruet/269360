@@ -20,7 +20,7 @@ In early 2000s, Java 2 Enerprise Edition (J2EE) platform dominated enterprise so
 
 **Week 2: Architectural structures**
 - Books: Beautiful Architecture, Chapter 2,3
-
+- Class Progress: (15/1/2562) Beautiful Architecture, Chapter 2, page 26-37
 
 **Week 3: Software development issues**
 - TBA
