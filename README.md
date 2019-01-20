@@ -12,6 +12,9 @@ In early 2000s, Java 2 Enerprise Edition (J2EE) platform dominated enterprise so
 1. C# and .Net Core Programming Skill (please install .Net Core 2.0 or later with Visual Studio Code or Visual Studio 2017)
 2. Github account
 
+# Attendance Sheet
+[Please see it here](https://o365cmu-my.sharepoint.com/:x:/g/personal/pruet_b_cmu_ac_th/ESTmwu9GaQpCgbdHiPdt6J8B61LXLL_cmUT4MmRDLO1-kg?e=AKwJPz)
+
 # Course Topics
 **Week 1: Introduction to software architecture.**
 - Books: Beautiful Architecture, Chapter 1
