@@ -69,7 +69,7 @@ In early 2000s, Java 2 Enerprise Edition (J2EE) platform dominated enterprise so
 1. Software architecture in practice, Len Bass, Paul Clements and Rick Kazman, Addison-Wesley, 2012
 
 # Required and Recommended Reading
-TBA
+1. [More People, More Problems … It’s Brooks’s Law.](https://medium.com/agile-development-in-thai/-6fac0175e7f4)
 
 # Grading Rubrics
 ## Professional Conduct
